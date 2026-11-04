@@ -21,13 +21,6 @@ Profissional focado em transformar dados em decisões estratégicas e automatiza
 
 ---
 
-### 📜 Certificações & Cursos
-
-- 🎓 **[Nome do Certificado / Instituição]** - *Ano*
-- 🎓 **[Nome do Certificado / Instituição]** - *Ano*
-
----
-
 ### 📬 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/vilton-brito-a2128520b/])
